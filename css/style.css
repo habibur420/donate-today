@@ -115,6 +115,58 @@ body{
     text-align: center;
     
 }
-.banner-btn {
+
+.plan-section{
+
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin-top: 70px;
+}
+.title3{
+
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.text3{
+
+    font-size: 18px;
+    margin: 10px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+}
+
+.choose-plan{
+
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin:  10px ;
+    margin-top: 30px;
     
+}
+.choose-plan .plan1{
+
+      border: 1px solid gray;
+      width: 380px;
+      
+
+}
+
+.fa-solid{
+
+     font-size: 61px;
+     padding-top:10px ;
+}
+.plan2{
+
+     background-color: #edf5f6;
+}
+.plan3{
+
+     background-color: #ffeeee;
+}
+.plan4{
+
+     background-color: #fff4d6;
 }
