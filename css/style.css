@@ -249,12 +249,21 @@ body{
       border-radius: 5px;
 
     }
+    
 
   footer{
     
     padding: 10px;
     background-color: #0b0d17;
     margin-top: 10px;
-    color: #ff5959;
+    color: #ffffff;
+    
   }
+  .footer-section h1{
+
+    color:#ff5959 ;
+    font-family: 'Amaranth', sans-serif;
+
+  }
+  
   
